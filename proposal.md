@@ -1,8 +1,8 @@
 # Simple Paint App: FunPad! (i might change that name...........)
 
 ## Repository
-https://github.com/mxm220116/simple-paint-app
-
+[https://github.com/mxm220116/simple-paint-app
+](https://github.com/mxm220116/Simple-Paint-App-MXM220116)
 ## Description
 My plan is to create a very lightweight and beginner-friendly desktop drawing application built in Python.
 It would provide digital artists with essential tools like custom pens and color selectors, as well as other features like layer/canvas management (and potentially even an animation/video compilation feature).
